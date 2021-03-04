@@ -1,2 +1,6 @@
 tsubasa
+<<<<<<< HEAD
 bvcoudlbfipcba;lkipv @
+=======
+aaa
+>>>>>>> origin/Aoki
