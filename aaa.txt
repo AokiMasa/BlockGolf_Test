@@ -1,5 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 48fbfc28dea97be1639237d0bd91378d60fa7e6c
 Shimabuuuuuuuun
 
 =======
@@ -18,3 +22,8 @@ bvcoudlbfipcba;lkipv @
 aaa
 >>>>>>> origin/Aoki
 >>>>>>> 5c2b7782fd016267d661f38e5a92ff8c36c64066
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of d20a4d9... tsubasa追加
+>>>>>>> 48fbfc28dea97be1639237d0bd91378d60fa7e6c
