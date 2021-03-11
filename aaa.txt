@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Shimabuuuuuuuun
+
+=======
+<<<<<<< HEAD
+テストグルメスパイザー
+=======
+>>>>>>> 9336425c4f435a2aa3ab67a1fdf723d8301b36ef
+=======
+Shimabuuuuuuuun
+
+>>>>>>> origin/Shimabukuro
+tsubasa
+<<<<<<< HEAD
+bvcoudlbfipcba;lkipv @
+=======
+aaa
+>>>>>>> origin/Aoki
+>>>>>>> 5c2b7782fd016267d661f38e5a92ff8c36c64066
